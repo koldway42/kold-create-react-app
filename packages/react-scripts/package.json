@@ -12,7 +12,7 @@
     "node": ">=14.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/koldway42/kold-create-react-app/issues"
   },
   "files": [
     "bin",
