@@ -1,10 +1,10 @@
 {
   "name": "@koldway42/react-scripts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/koldway42/kold-create-react-app.git",
     "directory": "koldway42/react-scripts"
   },
   "license": "MIT",
